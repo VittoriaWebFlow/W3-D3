@@ -1,0 +1,94 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+body {
+    background-color: beige;
+    font-family: "Montserrat", serif;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    display: inline;
+    margin-right: 2em;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    display: inline;
+    padding: 15px;
+    }
+
+form div {
+    text-align: center;
+    padding: 5px;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main {
+    width: 500px;
+    height: 400px;
+    background-color: rgb(67, 102, 104);
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10em;
+    padding: 22px;
+    border: 1px solid rgb(10, 29, 29);
+
+}
+
+footer {
+   
+    text-align: center;
+    padding: 40px;
+    font-family: "Montserrat", serif;
+    margin-bottom: 15em;
+    margin-top: 5em;
+    font-weight: bold;
+   
+
+}
+
+.contactCard {
+    display: inline-block;
+    width: 250px;
+    text-align: center;
+    background-color: rgb(166, 166, 175);
+    padding-bottom: 15px;
+    border: 1px solid black;
+}
+
+form input {
+    display: inline-block;
+    width: 12em;
+    padding: 0.8em;
+    align-items: center;
+    display: inline-block;
+    margin-left: auto;
+margin-right: auto;
+
+
+
+    
+}
+
+form  button {
+    margin-top: 3.5em;
+    font-size: 1em;
+    background-color: blue;
+    font-family:"Montserrat", serif; 
+}
+
+#New-contact {
+    text-decoration: solid;
+}
+
